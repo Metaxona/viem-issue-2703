@@ -1,0 +1,26 @@
+{
+  "name": "viem-issue-2703",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Metaxona/viem-issue-2703.git"
+  },
+  "author": "Metaxona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metaxona/viem-issue-2703/issues"
+  },
+  "homepage": "https://github.com/Metaxona/viem-issue-2703#readme",
+  "description": "",
+  "dependencies": {
+    "viem": "^2.19.7"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  }
+}
